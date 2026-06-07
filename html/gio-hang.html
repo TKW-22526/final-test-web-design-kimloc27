@@ -8,6 +8,11 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
+    <div id="message" class="alert alert-success text-center"
+     style="display:none; position:fixed; top:50%; left:50%;
+     transform:translate(-50%,-50%); z-index:9999;">
+    🎉 Chúc mừng bạn đã mua hàng thành công!
+</div>
 
     <div class="container my-5">
 
@@ -53,13 +58,14 @@
                 ← Tiếp tục mua hàng
             </a>
 
-            <button class="btn btn-success">
-                Thanh toán
-            </button>
+          <button class="btn btn-success" onclick="checkout()">
+              Thanh toán
+          </button>
 
         </div>
 
     </div>
+    
 
     <script>
 
@@ -167,8 +173,28 @@
 
             loadCart();
         }
+         function checkout() {
+
+              let cart = JSON.parse(localStorage.getItem("trasua_cart")) || [];
+
+                    if (cart.length === 0) {
+                       alert("Giỏ hàng đang trống!");
+                     return;
+                      }
+
+                     document.getElementById("message").style.display = "block";
+
+                      setTimeout(function () {
+                         document.getElementById("message").style.display = "none";
+                         }, 3000);
+
+                     localStorage.removeItem("trasua_cart");
+
+             loadCart();
+        }
 
         loadCart();
+        
 
     </script>
 

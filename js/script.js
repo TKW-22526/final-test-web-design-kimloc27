@@ -378,6 +378,24 @@ setTimeout(function () {
     msg.innerHTML = "";
 }, 3000);
 }
+function checkout() {
+    let cart = JSON.parse(localStorage.getItem("trasua_cart")) || [];
+
+    if (cart.length === 0) {
+        alert("Giỏ hàng đang trống!");
+        return;
+    }
+
+    let msg = document.getElementById("message");
+    msg.style.display = "block";
+
+    setTimeout(() => {
+        msg.style.display = "none";
+    }, 3000);
+
+    localStorage.removeItem("trasua_cart");
+    loadCart();
+}
 
 // Hàm C: Đọc chuỗi truy vấn để cập nhật nội dung cho trang chi tiết (?id=...)
 function renderProductDetail() {
