@@ -10,7 +10,7 @@ const productlist = [
     productLink: "chi-tiet.html",
     cat: "trasua",
     system: "trasua",
-    desc: "Trà sữa thơm béo kết hợp trân châu đường đen dai ngon."
+    desc: "Thức uống quốc dân với sự kết hợp hoàn hảo giữa cốt trà sữa truyền thống thơm béo đậm vị và những hạt trân châu đen được nấu chín tới, ngâm trong lớp siro đường đen caramel ngọt lịm, dẻo dai. Khi thưởng thức, hương vị ngọt ngào lan tỏa kết hợp cùng cảm giác dai giòn sần sật của từng viên trân châu mang đến trải nghiệm vô cùng tuyệt vời."
 },
 {
     id: 2,
@@ -21,7 +21,7 @@ const productlist = [
     productLink: "chi-tiet.html",
     cat: "trasua",
     system: "trasua",
-    desc: "Matcha nguyên chất hòa quyện cùng sữa tươi tạo hương vị đậm đà."
+    desc: "Sản phẩm sử dụng bột matcha nguyên chất nhập khẩu, giữ trọn vẹn hương thơm đặc trưng cùng vị chát nhẹ tự nhiên của trà xanh. Khi hòa quyện tinh tế cùng sữa tươi béo ngậy và đá mát lạnh, thức uống tạo nên một tổng thể màu xanh bắt mắt, đậm đà khó quên. Đây là lựa chọn lý tưởng dành riêng cho những tín đồ yêu thích hương vị trà Nhật Bản thanh tao."
 },
 {
     id: 3,
@@ -32,7 +32,7 @@ const productlist = [
     productLink: "chi-tiet.html",
     cat: "trasua",
     system: "trasua",
-    desc: "Sự kết hợp hoàn hảo giữa trà sữa và socola thơm ngon."
+    desc: "Sự kết hợp hoàn hảo đầy mê hoặc giữa vị đắng nhẹ, thơm nồng nàn của bột socola nguyên chất và nền trà sữa béo ngậy truyền thống. Thức uống có độ ngọt vừa vặn, không gây ngán, mang lại cảm giác ấm áp và thư giãn tinh thần ngay từ ngụm đầu tiên. Một ly trà sữa socola đậm vị sẽ là người bạn đồng hành lý tưởng cho những ngày làm việc căng thẳng."
 },
 {
     id: 4,
@@ -43,7 +43,7 @@ const productlist = [
     productLink: "chi-tiet.html",
     cat: "anvat",
     system: "anvat",
-    desc: "Khoai tây chiên giòn rụm, ăn kèm tương ớt và tương cà."
+    desc: "Những thanh khoai tây tươi được cắt lát đều đặn, trải qua quy trình chiên ngập dầu hiện đại giúp lớp vỏ ngoài đạt độ vàng ươm, giòn rụm bên ngoài nhưng vẫn giữ được độ bùi, mềm xốp tự nhiên của khoai bên trong. Món ăn vặt này luôn được phục vụ nóng hổi, đi kèm combo nước chấm tương ớt cay nồng và tương cà chua ngọt kích thích vị giác."
 },
 {
     id: 5,
@@ -54,7 +54,7 @@ const productlist = [
     productLink: "chi-tiet.html",
     cat: "anvat",
     system: "anvat",
-    desc: "Cá viên chiên nóng hổi, thơm ngon hấp dẫn."
+    desc: "Món ăn vặt đường phố quen thuộc được nâng cấp với những viên cá nguyên chất dai ngon, không pha bột. Khi chiên lên, cá viên phồng to, vàng đều các mặt, tỏa hương thơm nức mũi vô cùng hấp dẫn. Khi thưởng thức, bạn sẽ cảm nhận được độ ngọt tự nhiên từ thịt cá hòa quyện cùng chút cay nhẹ của tương đen, tương ớt đặc sản đi kèm."
 },
 {
     id: 6,
@@ -65,7 +65,7 @@ const productlist = [
     productLink: "chi-tiet.html",
     cat: "anvat",
     system: "anvat",
-    desc: "Xúc xích chiên vàng giòn, phù hợp ăn vặt mọi lúc."
+    desc: "Xúc xích Đức loại cao cấp với phần thịt heo xay đậm đà, được khía hoa văn đẹp mắt trước khi cho vào chảo chiên. Khi chín, lớp vỏ ngoài giòn dai nhẹ, phần thịt bên trong mọng nước, thơm mùi khói đặc trưng. Món ăn này cực kỳ phù hợp để ăn vặt kết hợp cùng bạn bè lúc xế chiều, chấm cùng tương ớt cay hoặc sốt mayonnaise béo ngậy."
 },
 {
     id: 7,
@@ -76,7 +76,7 @@ const productlist = [
     productLink: "chi-tiet.html",
     cat: "tra",
     system: "tra",
-    desc: "Trà đào cam sả thanh mát."
+    desc: "Ly nước giải nhiệt tuyệt vời cho mùa hè với hương thơm nồng nàn đặc trưng từ sả tươi đun sôi, vị chua thanh nhẹ của cam vàng mọng nước hòa quyện trên nền trà đen đậm vị. Thức uống không chỉ mang lại cảm giác sảng khoái tức thì mà còn được trang trí thêm những lát đào ngâm vàng ươm, giòn ngọt, giúp bạn vừa uống vừa có thể nhâm nhi ngon miệng."
 },
 {
     id: 8,
@@ -87,7 +87,7 @@ const productlist = [
     productLink: "chi-tiet.html",
     cat: "tra",
     system: "tra",
-    desc: "Trà vải thanh mát với những quả vải ngọt thơm."
+    desc: "Trà vải thanh mát mang lại cảm giác dịu nhẹ nhờ sự kết hợp tinh tế giữa trà hồng thanh khiết và hương vị ngọt thanh tự nhiên từ quả vải vùng nhiệt đới. Mỗi ly trà đều đi kèm những quả vải ngâm dày thịt, trắng ngần, mọng nước và giòn ngọt. Đây là thức uống thanh lọc cơ thể hiệu quả, mang đến năng lượng tươi mới cho ngày dài năng động."
 },
 {
     id: 9,
@@ -98,7 +98,7 @@ const productlist = [
     productLink: "chi-tiet.html",
     cat: "tra",
     system: "tra",
-    desc: "Trà lựu đỏ chua ngọt, giàu vitamin."
+    desc: "Thức uống sở hữu sắc đỏ hồng tự nhiên bắt mắt quyến rũ, được chiết xuất từ những quả lựu tươi mọng nước kết hợp cùng cốt trà xanh thanh mát. Vị chua chua ngọt ngọt thanh tao lưu lại nơi đầu lưỡi kích thích vị giác mạnh mẽ. Không chỉ là một món nước giải khát đơn thuần, trà lựu đỏ còn rất giàu vitamin và chất chống oxy hóa giúp nuôi dưỡng làn da khỏe mạnh."
 },
 {
     id: 10,
@@ -109,7 +109,7 @@ const productlist = [
     productLink: "chi-tiet.html",
     cat: "tra",
     system: "tra",
-    desc: "Hương vị xoài tươi mát, đậm chất nhiệt đới."
+    desc: "Trải nghiệm hương vị mùa hè rực rỡ với dòng trà thanh mát hòa cùng mứt xoài chín vàng thơm lừng. Sự kết hợp độc đáo này mang đến vị chua ngọt đậm đà, thơm nức mũi đặc trưng của trái cây vùng nhiệt đới. Nước trà có màu vàng óng ả, uống cùng đá lạnh giúp xua tan nhanh chóng cảm giác oi bức, mệt mỏi và làm bừng tỉnh mọi giác quan."
 },
 {
     id: 11,
@@ -120,7 +120,7 @@ const productlist = [
     productLink: "chi-tiet.html",
     cat: "tra",
     system: "tra",
-    desc: "Trà dâu thơm ngon với vị chua ngọt tự nhiên."
+    desc: "Hương vị trà dâu tươi mát được tạo nên từ cốt trà thượng hạng dầm kèm với những quả dâu tây Đà Lạt chín mọng, tạo nên vị chua ngọt cân bằng đầy tinh tế. Sắc đỏ rực rỡ tự nhiên của ly trà cùng những miếng dâu tây tươi cắt nhỏ thả bên trên tạo nên sức hút khó cưỡng, mang đến cảm giác sảng khoái và dồi dào vitamin cho cơ thể."
 },
 {
     id: 12,
@@ -131,7 +131,7 @@ const productlist = [
     productLink: "chi-tiet.html",
     cat: "trasua",
     system: "trasua",
-    desc: "Trà sữa Thái xanh thơm béo, đậm vị trà."
+    desc: "Thức uống trà sữa trứ danh đến từ xứ sở Chùa Vàng với màu xanh ngọc bích mát mắt đặc trưng. Được pha chế từ những lá trà Thái xanh chọn lọc kỹ lưỡng nấu cùng sữa béo, thức uống mang đến hương thơm thảo mộc dịu nhẹ lan tỏa khắp khoang miệng kết hợp vị béo ngậy ngọt ngào khó quên, cực kỳ thích hợp khi dùng kèm các loại thạch dẻo."
 },
 {
     id: 13,
@@ -142,7 +142,7 @@ const productlist = [
     productLink: "chi-tiet.html",
     cat: "trasua",
     system: "trasua",
-    desc: "Trà sữa Thái đỏ nổi tiếng với hương vị đặc trưng."
+    desc: "Mang đậm phong vị ẩm thực Thái Lan truyền thống, trà sữa Thái đỏ thu hút thực khách bởi sắc cam hồng rực rỡ và hương thơm nồng nàn từ các loại hoa hồi, hạt thảo quả ẩn hiện trong vị trà. Vị chát nhẹ của trà đen được làm dịu hoàn toàn bằng sữa đặc béo ngậy tạo nên một cấu trúc đồ uống mượt mà, đậm đà, quyến rũ ngất ngây."
 },
 {
     id: 14,
@@ -153,7 +153,7 @@ const productlist = [
     productLink: "chi-tiet.html",
     cat: "trasua",
     system: "trasua",
-    desc: "Trà sữa truyền thống thơm béo, dễ uống."
+    desc: "Hương vị nguyên bản mộc mạc làm nên thương hiệu của quán, được pha chế theo công thức tỷ lệ vàng giữa trà đen hữu cơ hảo hạng và sữa bột chuyên dụng cao cấp. Ly nước giữ được vị chát nhẹ tinh tế ở hậu vị nhưng vẫn dậy lên hương thơm béo ngậy mềm mịn khó cưỡng, rất dễ uống và có thể kết hợp hoàn hảo với mọi loại topping."
 },
 {
     id: 15,
@@ -164,7 +164,7 @@ const productlist = [
     productLink: "chi-tiet.html",
     cat: "trasua",
     system: "trasua",
-    desc: "Trà sữa kết hợp hương dâu ngọt ngào hấp dẫn."
+    desc: "Sự kết hợp ngọt ngào đầy lãng mạn giữa màu hồng pastel dễ thương của hương dâu tây và vị béo ngậy của dòng trà sữa hiện đại. Thức uống mang đậm hương thơm trái cây thanh mát, vị ngọt dịu nhẹ đan xen chút chua nhẹ tinh tế làm say lòng các thực khách, đặc biệt là các bạn nữ yêu thích phong cách nhẹ nhàng, trẻ trung."
 },
 {
     id: 16,
@@ -175,7 +175,7 @@ const productlist = [
     productLink: "chi-tiet.html",
     cat: "trasua",
     system: "trasua",
-    desc: "Trà sữa khoai môn thơm bùi, béo ngậy."
+    desc: "Sản phẩm ghi điểm tuyệt đối nhờ sắc tím mộng mơ và vị bùi béo đặc trưng của khoai môn nguyên chất nghiền nhuyễn hòa quyện vào cốt trà sữa đậm đà. Điểm đặc biệt của ly trà sữa khoai môn là độ sánh mịn mượt mà, để lại hậu vị ngọt ngào, thơm bùi béo ngậy kéo dài trong cổ họng, đem lại cảm giác ngon miệng cực kỳ kích thích."
 },
 {
     id: 17,
@@ -186,7 +186,7 @@ const productlist = [
     productLink: "chi-tiet.html",
     cat: "anvat",
     system: "anvat",
-    desc: "Bánh tráng trộn đậm đà với nhiều topping hấp dẫn."
+    desc: "Món ăn vặt quốc dân được trộn đều tay giữa bánh tráng sợi dai mềm cùng nước sốt bò sa tế cay nồng, nước cốt tắc chua thanh. Đi kèm là đầy đủ các loại topping siêu chất lượng bao gồm trứng cút luộc, khô bò xé cay, khô mực xé sợi, xoài xanh bào sợi mọng nước, rau răm thơm nồng và đậu phộng rang giòn rụm bùi béo."
 },
 {
     id: 18,
@@ -197,7 +197,7 @@ const productlist = [
     productLink: "chi-tiet.html",
     cat: "anvat",
     system: "anvat",
-    desc: "Nem chua rán vàng giòn, thơm ngon khó cưỡng."
+    desc: "Đặc sản ăn vặt nức tiếng mang chuẩn hương vị phố cổ được làm từ thịt heo và bì heo tuyển chọn kỹ lưỡng, lăn qua lớp bột chiên xù xốp mịn. Khi chiên ngập dầu, nem chua tỏa hương thơm ngào ngạt, lớp vỏ ngoài đạt độ vàng giòn rụm lý tưởng trong khi phần thịt bên trong vẫn giữ nguyên cấu trúc dẻo dai, đậm đà, chấm kèm tương ớt cay ngọt."
 },
 {
     id: 19,
@@ -208,7 +208,7 @@ const productlist = [
     productLink: "chi-tiet.html",
     cat: "anvat",
     system: "anvat",
-    desc: "Phô mai que kéo sợi béo ngậy, giòn rụm."
+    desc: "Món ăn gây nghiện với lớp nhân phô mai Mozzarella nguyên khối thượng hạng được bao bọc cẩn thận bên trong lớp bột chiên xù giòn tan. Khi cắn nhẹ một miếng lúc còn nóng hổi, lớp phô mai bên trong sẽ kéo sợi dài béo ngậy, tỏa ra vị thơm ngậy đặc trưng của sữa. Món này ăn kèm cùng sốt tương cà hoặc sốt tương ớt để cân bằng hương vị."
 },
 {
     id: 20,
@@ -219,10 +219,9 @@ const productlist = [
     productLink: "chi-tiet.html",
     cat: "anvat",
     system: "anvat",
-    desc: "Gà viên chiên thơm ngon, phù hợp ăn vặt."
+    desc: "Những viên ức gà tươi được tẩm ướp gia vị đậm đà theo công thức độc quyền, bên ngoài phủ một lớp bột chiên xù mỏng giúp khóa chặt phần nước thịt bên trong khi chiên. Từng viên gà chiên vàng ruộm, vỏ ngoài giòn sần sật, thịt gà bên trong mềm mại, mọng nước, không bị khô cứng, là món ăn vặt lý tưởng và bổ dưỡng cho mọi lứa tuổi."
 }
 ];
-
 // ==========================================
 // 2. HÀM SINH SẢN PHẨM (DOM THUẦN - CẬP NHẬT 2 NÚT)
 // ==========================================
